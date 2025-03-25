@@ -127,9 +127,16 @@ document.addEventListener("DOMContentLoaded", function () {
             { value: "60 Genesis Crystals", price: 16000 },
             { value: "300 Genesis Crystals", price: 80000 },
             { value: "980 Genesis Crystals", price: 240000 },
-            { value: "1980 Genesis Crystals", price: 480000 },
+            { value: "1980 Genesis Crystals", price: 520037 },
             { value: "3280 Genesis Crystals", price: 800000 },
-            { value: "6480 Genesis Crystals", price: 1600000 }
+            { value: "6480 Genesis Crystals", price: 1600000 },
+            { value: "6480+1600 Genesis Crystals x5", price: 7820164 },
+            { value: "All Pack Genesis Crystals", price: 4182466 },
+            { value: "Blessing of the Welkin Moon", price: 81348 },
+            { value: "Blessing of the Welkin Moon x2", price: 160696 },
+            { value: "Blessing of the Welkin Moon x3", price: 240875 },
+            { value: "Blessing of the Welkin Moon x4", price: 320667 },
+            { value: "Blessing of the Welkin Moon x5", price: 493459 }
         ],
         "Call of Duty Mobile": [
             { value: "80 CP", price: 15000 },
