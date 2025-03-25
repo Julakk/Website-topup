@@ -103,7 +103,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { value: "1075 Diamonds", price: 141654 },
             { value: "1440 Diamonds", price: 189433 },
             { value: "1450 Diamonds", price: 190092 },
-            { value: "2160 Diamonds, price: 279784 },
+            { value: "2160 Diamonds", price: 279784 },
             { value: "2180 Diamonds", price: 281036 },
             { value: "3640 Diamonds", price: 461144 },
             { value: "36500 Diamonds", price: 5475896 },
