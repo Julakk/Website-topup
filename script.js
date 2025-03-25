@@ -75,8 +75,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { value: "2625 Diamonds (2253 + 372 Bonus)", price: 670857},
             { value: "14490 Diamonds (12009 + 2481 Bonus)", price: 3699091},
             { value: "24150 Diamonds (20015 + 4135 Bonus)", price: 5995821},
-            { value: "23340 Diamonds (19428 + 3912 Bonus)", price: 5794601},
-           
+            { value: "23340 Diamonds (19428 + 3912 Bonus)", price: 5794601} 
         ],
         "Free Fire": [
             { value: "BP Card", price: 48004 },
