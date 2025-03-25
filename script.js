@@ -5,6 +5,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
     let priceOptions = {
         "Mobile Legends": [
+            { value: "Weekly Diamond Pass", price: 30321 },
+            { value: "Weekly Diamond Pass x2", price: 59643 },
+            { value: "Weekly Diamond Pass x3", price: 86963 },
+            { value: "Weekly Diamond Pass x4", price: 115284 },
+            { value: "Weekly Diamond Pass x5", price: 145606 },
+            { value: "Twilight", price: 15569 },
             { value: "3 Diamonds", price: 1558 },
             { value: "5 Diamonds", price: 1958 },
             { value: "10 Diamonds (9 + 1 Bonus)", price: 4055 },
