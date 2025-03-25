@@ -119,7 +119,9 @@ document.addEventListener("DOMContentLoaded", function () {
             { value: "3000 + 850 Bonus UC", price: 790831 },
             { value: "6000 + 2100 Bonus UC", price: 1580163 },
             {value: "12000 + 4200 Bonus UC", price: 3200826 },
-            
+            {value: "18000 + 6300 Bonus UC", price: 5704488 },
+            {value: "36000 + 12600 Bonus UC", price: 9599976 },
+            {value: "24000 + 8400 Bonus UC", price: 7271151 }  
         ],
         "Genshin Impact": [
             { value: "60 Genesis Crystals", price: 16000 },
