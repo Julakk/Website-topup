@@ -124,11 +124,32 @@ button:hover {
 }
 
 footer {
-    margin-top: 20px;
-    padding: 10px;
-    background: #ff6600;
+    background-color: #222;
     color: white;
     text-align: center;
+    padding: 20px 0;
+    margin-top: 30px;
+}
+
+.social-media {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 10px;
+}
+
+.social-media a {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+
+.social-media img {
+    width: 20px;
+    height: 20px;
 }
 
 
